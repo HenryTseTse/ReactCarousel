@@ -1,5 +1,5 @@
 import "./App.css";
-import Carousel from "./Carousel";
+import Carousel from "./Carousel.js";
 import photos from "./photos.js";
 
 /** App component, renders Carousel

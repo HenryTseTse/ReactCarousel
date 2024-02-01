@@ -1,5 +1,5 @@
 import { render, fireEvent } from "@testing-library/react";
-import Carousel from "./Carousel";
+import Carousel from "./Carousel.js";
 import TEST_IMAGES from "./_testCommon.js";
 
 it("works when you click on the right arrow", function() {
